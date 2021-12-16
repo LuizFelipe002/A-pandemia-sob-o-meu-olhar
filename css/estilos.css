@@ -1,0 +1,35 @@
+body {
+         background: #D3D3D3; 
+          
+      }
+
+      body{
+         color: #782E4F;
+         font-family: sans-serif;
+
+      }
+      h1{
+         color: #000000;
+      }
+      a:link{
+         color: #000000;
+         font-family: sans-serif;
+         text-decoration: none;
+      }
+      a:visited{
+         color: #F24F00;
+      }
+      a:hover{
+         text-decoration: underline;
+         background-color: #BFDDF3;
+      }
+      h2{
+         color:  #000000; 
+      }
+      h3{
+        color:   #8B0000;
+      }
+      h5{
+        color:   #000000; 
+      }
+  
